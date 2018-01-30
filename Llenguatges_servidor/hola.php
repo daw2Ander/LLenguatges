@@ -1,6 +1,6 @@
 <?php 
 
-	echo"Hola eclipse!"; 
+	echo"Hola ramis !"; 
 
 ?>
 
