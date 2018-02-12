@@ -1,5 +1,5 @@
 public class hola{
 	public static void main(String args[]){
-	System.out.println("hola Eclipse!"); 
+	System.out.println("hola Visual Studio :D !"); 
 	}
 }
